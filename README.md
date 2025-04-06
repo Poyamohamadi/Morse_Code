@@ -2,6 +2,8 @@
 
 A Python-based Morse Code translator and player built using the `customtkinter` library for the GUI and `pygame` for audio playback. This application allows users to convert text between English and Morse Code, play Morse Code as audio, and clear/reset inputs with ease.
 
+---
+
 ## Table of Contents
 
 1. [Features](#features)
@@ -11,6 +13,12 @@ A Python-based Morse Code translator and player built using the `customtkinter` 
 5. [Dependencies](#dependencies)
 6. [Contributing](#contributing)
 7. [License](#license)
+
+---
+
+## Program Demo 
+
+![Morse Code Translator](https://github.com/Poyamohamadi/Morse_Code/blob/main/demo.gif)
 
 ---
 
