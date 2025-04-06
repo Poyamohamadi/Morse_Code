@@ -1,7 +1,3 @@
-Here’s a well-structured `README.md` file for your Morse Code application. It includes all the necessary sections to provide a comprehensive overview of the project.
-
----
-
 # Morse Code Translator 
 
 A Python-based Morse Code translator and player built using the `customtkinter` library for the GUI and `pygame` for audio playback. This application allows users to convert text between English and Morse Code, play Morse Code as audio, and clear/reset inputs with ease.
