@@ -167,7 +167,7 @@ Please ensure your code adheres to the existing style and includes appropriate d
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Poyamohamadi/Morse_Code-/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Poyamohamadi/Morse_Code/blob/main/LICENSE.md) file for details.
 
 ---
 
